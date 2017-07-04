@@ -1,0 +1,6 @@
+C:\Users\Dimo\Desktop\Projects For Softuni\MiniORM-Solution\MiniORMLive\MiniORMLive\bin\Debug\MiniORMLive.exe.config
+C:\Users\Dimo\Desktop\Projects For Softuni\MiniORM-Solution\MiniORMLive\MiniORMLive\bin\Debug\MiniORMLive.exe
+C:\Users\Dimo\Desktop\Projects For Softuni\MiniORM-Solution\MiniORMLive\MiniORMLive\bin\Debug\MiniORMLive.pdb
+C:\Users\Dimo\Desktop\Projects For Softuni\MiniORM-Solution\MiniORMLive\MiniORMLive\obj\Debug\MiniORMLive.csprojResolveAssemblyReference.cache
+C:\Users\Dimo\Desktop\Projects For Softuni\MiniORM-Solution\MiniORMLive\MiniORMLive\obj\Debug\MiniORMLive.exe
+C:\Users\Dimo\Desktop\Projects For Softuni\MiniORM-Solution\MiniORMLive\MiniORMLive\obj\Debug\MiniORMLive.pdb
